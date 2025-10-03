@@ -42,8 +42,8 @@ I build governed **Lakehouse** foundations, reliable **MLOps**, and low-latency 
 ---
 
 ## Links
-- **LinkedIn:** [profile](#)
-- **Email:** [contact](mailto:you@example.com)
+- **LinkedIn:** [www.linkedin.com/in/samuel-hailemariam](#)
+- **Email:** [contact](mailto:samuel.hailemariam@outlook.com)
 - **Projects:** [github.com/samhmariam?tab=repositories](https://github.com/samhmariam?tab=repositories)
 
 > Tip: Pin the four repos above for quick review. Add brief, outcome-led descriptions (e.g., “CDC + DQ → trusted analytics,” “RAG router → ↑ relevance”).
